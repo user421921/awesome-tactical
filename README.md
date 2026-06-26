@@ -13,14 +13,28 @@ List of Tools, Techniques, and Toys for Tactical Red team, Investigation, Counte
 
 ---
 
+## Recon
+* [Awesome Osint](https://github.com/jivoi/awesome-osint/blob/master/README.md) - Awesome Github repo for osint Tools. 
+* [OSINT Framework](https://osintframework.com/) - Online interactive bracket style database of OSINT Tools.
+
 ## Communications & Signals
 
-* [DragonOS](https://github.com/alphafox02/DragonOS_Focal) - An Ubuntu-based Linux distribution pre-installed with a massive suite of open-source SDR software.
 * [Chirp](https://chirp.danplanet.com/) - An open-source tool for programming amateur radios. Useful for managing local repeater frequencies and simplex channels.
+* [Mojave Repeater](https://mojaverepeater.com/) - Classes and Gear Focused on Military/Squad style Tactical communication.
+* [Ham Radio Outlet](https://www.hamradio.com) - Very Reliable Place to Get comms equipment focused on civilian radio with great customer service.
+* [Disco32](https://disco32.com/) - Retailer and Manufacturer of high speed comms accessories.
+* [OpenHamClock](https://openhamclock.com/) - Online resource for tracking long range high frequency communications, weather, natural hazards.
+* [Repeaterbook GMRS](https://www.repeaterbook.com/gmrs/index.php?state_id=none) - list of GMRS repeaters for "offgrid" comms.
+* [Repeaterbook AMA](https://www.repeaterbook.com/repeaters/index.php?state_id=none) - List of Amature Radio repeaters for "offgrid" comms.
+* [RadioReference](https://www.radioreference.com/db/) - List of channels and freqs for Law enforcement, Fire Fighters, Medical, Aviatiom, Civilian and more.
 
-## Mapping & Navigation
 
-* [CivTAK / ATAK-CIV](https://tak.gov/) - Android Tactical Assault Kit. A geospatial map engine for team situational awareness, navigation, and data sharing.
+## Mapping & LandNav
+
+* [CivTAK / ATAK-CIV](https://tak.gov/) - Android Tactical Assault Kit (Or "Team Awareness Kit" if HR gets involved). A geospatial map engine for team situational awareness, navigation, and data sharing.
+* [ArgusTAK](https://argustak.com/connection) - Online TAK Server Provider so you dont have to have a dedicated to mark Opfor and send memes to your battle buddies
+* [CalTopo](https://caltopo.com/map.html) - Online Topography map for offroading and Land Navigation. Printable maps with multiple layers and overlays.
+* [Sat View](https://satmap.space/) - 2d Overhead satelite tracking
 
 ## Hardware & Maker Tools
 
