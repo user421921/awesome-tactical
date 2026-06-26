@@ -13,11 +13,11 @@ List of Tools, Techniques, and Toys for Tactical Red team, Investigation, Counte
 
 ---
 
-## Recon
+## 🕵🏻 Recon
 * [Awesome Osint](https://github.com/jivoi/awesome-osint/blob/master/README.md) - Awesome Github repo for osint Tools. 
 * [OSINT Framework](https://osintframework.com/) - Online interactive bracket style database of OSINT Tools.
 
-## Communications & Signals
+## 📻 Communications & Signals
 
 * [Chirp](https://chirp.danplanet.com/) - An open-source tool for programming amateur radios. Useful for managing local repeater frequencies and simplex channels.
 * [Mojave Repeater](https://mojaverepeater.com/) - Classes and Gear Focused on Military/Squad style Tactical communication.
@@ -27,21 +27,27 @@ List of Tools, Techniques, and Toys for Tactical Red team, Investigation, Counte
 * [Repeaterbook GMRS](https://www.repeaterbook.com/gmrs/index.php?state_id=none) - list of GMRS repeaters for "offgrid" comms.
 * [Repeaterbook AMA](https://www.repeaterbook.com/repeaters/index.php?state_id=none) - List of Amature Radio repeaters for "offgrid" comms.
 * [RadioReference](https://www.radioreference.com/db/) - List of channels and freqs for Law enforcement, Fire Fighters, Medical, Aviatiom, Civilian and more.
+* [ARRL Radio Information](https://www.arrl.org/new-ham-resources) - Resources for anyone looking to get into radio communications
 
 
-## Mapping & LandNav
+## 🗺️ Mapping & LandNav
 
 * [CivTAK / ATAK-CIV](https://tak.gov/) - Android Tactical Assault Kit (Or "Team Awareness Kit" if HR gets involved). A geospatial map engine for team situational awareness, navigation, and data sharing.
 * [ArgusTAK](https://argustak.com/connection) - Online TAK Server Provider so you dont have to have a dedicated to mark Opfor and send memes to your battle buddies
 * [CalTopo](https://caltopo.com/map.html) - Online Topography map for offroading and Land Navigation. Printable maps with multiple layers and overlays.
 * [Sat View](https://satmap.space/) - 2d Overhead satelite tracking
 
-## Hardware & Maker Tools
+## ❤️‍🩹 Medical
+* [BLS](https://www.redcross.org/take-a-class/bls-training/bls-online) - Basic Life support, Bare minimum for any civilian.
+* [International School of Tactical Medicine](ttps://tacticalmedicine.com/) - Active Shooter/Active Killer prepardness training.
+* [FAST](https://www.redcross.org/take-a-class/first-aid/first-aid-training/first-aid-classes/fast-training) - Bleeding Control.
 
-* [Printables - Tactical Gear](https://www.printables.com/) - Useful query for open-source 3D prints covering radio chassis, antenna spacers, and field gear modifications.
+## 🛠️ Other Hardware & Toys
 
----
+* [Thingiverse](https://www.thingiverse.com/) - Free and Useful query for open-source 3D prints covering radio chassis, antenna spacers, and field gear modifications.
+* [Red Team Tools](https://www.redteamtools.com/) - Covert entry and Penetration Testing Tools and Training
+* [Hak5](https://shop.hak5.org/) - Cyber Pentest tools and Training.
 
-## Contributing
-
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+## ▶️ Video Content
+* [Dirty Civilian] - Weapons, Gear, Survival, Emergency preparedness. Very Fun and cinamatic.
+* [T.REX ARMS] - Rifles, Body armor.
