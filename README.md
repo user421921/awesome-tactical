@@ -17,6 +17,9 @@ List of Tools, Techniques, and Toys for Tactical Red team, Investigation, Counte
 #### Most tools can be found at the two top resources, though I will list some of my favorite.
 * [Awesome Osint](https://github.com/jivoi/awesome-osint/blob/master/README.md) - Awesome Github repo for osint Tools. 
 * [OSINT Framework](https://osintframework.com/) - Online interactive bracket style database of OSINT Tools.
+* [BellingCat](https://www.bellingcat.com/) - Online case studies for investagative work.
+* [MITRE ATT&CK](https://attack.mitre.org/) - Cyber intel framework
+* [Psychology_of_Intelligence_Analysis](Psychology_of_Intelligence_Analysis) - Digitized book for deepdiving into the mindset for intel analysis.
 
 ## 📻 Communications & Signals
 
