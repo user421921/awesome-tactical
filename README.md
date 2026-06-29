@@ -22,6 +22,7 @@ List of Tools, Techniques, and Toys for Tactical Red team, Investigation, Counte
 * [Psychology_of_Intelligence_Analysis](Psychology_of_Intelligence_Analysis) - Digitized book for deepdiving into the mindset for intel analysis.
 
 ## 📻 Communications & Signals
+#### 2 way radio, Signal Intel, and High Frequency communications.
 
 * [Chirp](https://chirp.danplanet.com/) - An open-source tool for programming amateur radios. Useful for managing local repeater frequencies and simplex channels.
 * [Mojave Repeater](https://mojaverepeater.com/) - Classes and Gear Focused on Military/Squad style Tactical communication.
@@ -32,21 +33,31 @@ List of Tools, Techniques, and Toys for Tactical Red team, Investigation, Counte
 * [Repeaterbook AMA](https://www.repeaterbook.com/repeaters/index.php?state_id=none) - List of Amature Radio repeaters for "offgrid" comms.
 * [RadioReference](https://www.radioreference.com/db/) - List of channels and freqs for Law enforcement, Fire Fighters, Medical, Aviatiom, Civilian and more.
 * [ARRL Radio Information](https://www.arrl.org/new-ham-resources) - Resources for anyone looking to get into radio communications
+* [Signal](https://signal.org/) - Encrypted Internet messagener, keeps man in the middle attacks at bay.
 
 
 ## 🗺️ Mapping & LandNav
+#### Maps for geographic intel, Navagation, maping Reference points and entities.
 
 * [CivTAK / ATAK-CIV](https://tak.gov/) - Android Tactical Assault Kit (Or "Team Awareness Kit" if HR gets involved). A geospatial map engine for team situational awareness, navigation, and data sharing.
 * [ArgusTAK](https://argustak.com/connection) - Online TAK Server Provider so you dont have to have a dedicated to mark Opfor and send memes to your battle buddies
 * [CalTopo](https://caltopo.com/map.html) - Online Topography map for offroading and Land Navigation. Printable maps with multiple layers and overlays.
 * [Sat View](https://satmap.space/) - 2d Overhead satelite tracking
 
+## Counter-intel, OPSEC, and Privacy 
+#### Don't use smart tech if you wanna be private but if you have too utilize these
+* [privacy-tools](https://privacytools.io/) - Site that contains online provacy tools.
+* [GrapheneOS](https://grapheneos.org/) - Android alternative for more private mobile devices.
+* [F-Droid](https://f-droid.org/en/) - Play store alternative with apps without google services.
+* [Security in a box](https://securityinabox.org/en/) - Great resource for security and privacy for electronics, personel, and day to day operations.
+
 ## ❤️‍🩹 Medical
+#### Training and information on Stoping the bleed, Keeping people and yourself alive. 
 * [BLS](https://www.redcross.org/take-a-class/bls-training/bls-online) - Basic Life support, Bare minimum for any civilian.
 * [ISTM](https://tacticalmedicine.com/) - Active Shooter/Active Killer prepardness training.
 * [FAST](https://www.redcross.org/take-a-class/first-aid/first-aid-training/first-aid-classes/fast-training) - Bleeding Control.
 * [American Red Cross Classes](https://www.redcross.org/take-a-class) - Main resource for civilian medical training
-* [NLM]
+* [NLM](https://www.nlm.nih.gov/) - National library of medicine, an information center of medical resources.
 
 ## 🛠️ Other Hardware & Toys
 
