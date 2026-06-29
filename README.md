@@ -13,7 +13,8 @@ List of Tools, Techniques, and Toys for Tactical Red team, Investigation, Counte
 
 ---
 
-## 🕵🏻 Recon ### most tools can be found at the two top resources, though I will list some of my favorite.
+## 🕵🏻 Recon 
+### Most tools can be found at the two top resources, though I will list some of my favorite.
 * [Awesome Osint](https://github.com/jivoi/awesome-osint/blob/master/README.md) - Awesome Github repo for osint Tools. 
 * [OSINT Framework](https://osintframework.com/) - Online interactive bracket style database of OSINT Tools.
 
