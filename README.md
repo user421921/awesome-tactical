@@ -45,6 +45,8 @@ List of Tools, Techniques, and Toys for Tactical Red team, Investigation, Counte
 * [BLS](https://www.redcross.org/take-a-class/bls-training/bls-online) - Basic Life support, Bare minimum for any civilian.
 * [ISTM](https://tacticalmedicine.com/) - Active Shooter/Active Killer prepardness training.
 * [FAST](https://www.redcross.org/take-a-class/first-aid/first-aid-training/first-aid-classes/fast-training) - Bleeding Control.
+* [American Red Cross Classes](https://www.redcross.org/take-a-class) - Main resource for civilian medical training
+* [NLM]
 
 ## 🛠️ Other Hardware & Toys
 
