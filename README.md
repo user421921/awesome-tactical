@@ -44,8 +44,9 @@ List of Tools, Techniques, and Toys for Tactical Red team, Investigation, Counte
 * [CalTopo](https://caltopo.com/map.html) - Online Topography map for offroading and Land Navigation. Printable maps with multiple layers and overlays.
 * [Sat View](https://satmap.space/) - 2d Overhead satelite tracking
 
-## Counter-intel, OPSEC, and Privacy 
+## 🔒Counter-intel, OPSEC, and Privacy 
 #### Don't use smart tech if you wanna be private but if you have too utilize these
+
 * [privacy-tools](https://privacytools.io/) - Site that contains online provacy tools.
 * [GrapheneOS](https://grapheneos.org/) - Android alternative for more private mobile devices.
 * [F-Droid](https://f-droid.org/en/) - Play store alternative with apps without google services.
@@ -53,6 +54,7 @@ List of Tools, Techniques, and Toys for Tactical Red team, Investigation, Counte
 
 ## ❤️‍🩹 Medical
 #### Training and information on Stoping the bleed, Keeping people and yourself alive. 
+
 * [BLS](https://www.redcross.org/take-a-class/bls-training/bls-online) - Basic Life support, Bare minimum for any civilian.
 * [ISTM](https://tacticalmedicine.com/) - Active Shooter/Active Killer prepardness training.
 * [FAST](https://www.redcross.org/take-a-class/first-aid/first-aid-training/first-aid-classes/fast-training) - Bleeding Control.
